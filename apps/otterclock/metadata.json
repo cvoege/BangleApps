@@ -1,0 +1,13 @@
+{
+  "id": "otterclock",
+  "name": "Otter Clock",
+  "shortName" : "Otter Clock",
+  "icon": "app.png",
+  "version": "0.0.1",
+  "description": "Otters. Clock. That's it.",
+  "tags": "",
+  "supports": ["BANGLEJS"],
+  "storage": [
+    {"name":"otterclock.app.js","url":"app.js"},
+  ],
+},
